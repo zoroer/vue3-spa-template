@@ -10,6 +10,8 @@ lerna-debug.log*
 package-lock.json
 yarn-lock.json
 
+.git
+
 node_modules
 .DS_Store
 dist

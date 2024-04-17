@@ -18,6 +18,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "engines": {
+    "node": ">=18.17.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zoroer/uni-web-templates.git"
